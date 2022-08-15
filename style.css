@@ -80,7 +80,7 @@ cursor: pointer;}
     display:flex;
     align-items: flex-end;
     justify-content: center;
-    gap:5%;
+    gap:2%;
     padding-bottom: 20px;;
    
 }
@@ -97,6 +97,7 @@ cursor: pointer;}
     
 }
 figcaption{font-size: 10px;}
+
 .text_one{
    padding:1em;
     text-align: center;
@@ -115,8 +116,10 @@ figcaption{font-size: 10px;}
 .quote{
     font-size: 20px;
     width: 60%;
+    font-style:italic;
 }
 em{ 
+    /*the quote's author*/
     margin-left: 60%;
     font-size: 15px;
 }
